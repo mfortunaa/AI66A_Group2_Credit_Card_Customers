@@ -1,3 +1,6 @@
+# Ignore CatBoost logs
+catboost_info/
+
 # Ignore dataset files
 data/*
 !data/README.md
