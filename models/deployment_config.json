@@ -6,10 +6,10 @@
         "CatBoost_Tuned"
     ],
     "meta_model": "LogisticRegression",
-    "optimal_threshold": 0.44797631378378494,
+    "optimal_threshold": 0.4148226487285481,
     "performance_metrics": {
-        "f1_score": 0.9212121212121213,
-        "recall": 0.9353846153846154,
-        "precision": 0.9074626865671642
+        "f1_score": 0.9191616766467066,
+        "recall": 0.9446153846153846,
+        "precision": 0.8950437317784257
     }
 }
